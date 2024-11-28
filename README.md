@@ -1,4 +1,4 @@
-This is where I post my puzzle solutions which are not too hard but I am posting them online to keep track of how far I have been going with my studies.
+This is where I post my puzzle solutions. They are not too hard, but I share them online to keep track of my progress and see how far I’ve come in my studies.
 
 
 Note to self:
